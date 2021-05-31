@@ -1,0 +1,31 @@
+.ShoesTable{
+	border: 2px solid;
+	border-color: transparent;
+}
+#shoestable{
+	margin-top: 30px;
+}
+.shoeimage{
+	width: 350px;
+	height: 250px;
+}
+#shoesname1{
+	text-align: center;
+}
+#shoesname2{
+	text-align: center;
+}
+#payment{
+	border: none;
+	border-color: lightgray;
+	border-radius: 50px 50px;
+	height: 30px;
+	float: right;
+	top: 0;
+	position: -webkit-sticky;
+	position: sticky;
+	bottom: 0;
+}
+#paymentscroll{
+	
+}
